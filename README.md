@@ -119,7 +119,7 @@ Open to contributions! If you find any issues or have suggestions for improvemen
 
 ### **Contact**
 
-Aditya | [LinkedIn](https://linkedin.com/in/aditya) | [GitHub](https://github.com/aditya)
+Aditya | [LinkedIn]([https://linkedin.com/in/aditya](https://www.linkedin.com/in/aditya-gund/)) | [GitHub]([https://github.com/aditya](https://github.com/aditya-gund))
 
 ---
 
