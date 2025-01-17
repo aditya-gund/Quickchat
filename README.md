@@ -128,5 +128,3 @@ Aditya | [LinkedIn]([https://linkedin.com/in/aditya](https://www.linkedin.com/in
 - Special thanks to the open-source community for providing great tools like Spring Boot, WebSockets, and PostgreSQL.
 
 ---
-
-**Note**: Add screenshots or diagrams in the specified placeholders for a more visually appealing README. Make sure to update the URLs to match your repository's links and images.
